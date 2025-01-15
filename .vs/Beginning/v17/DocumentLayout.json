@@ -1,0 +1,1294 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\Player.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Rock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\Rock.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\SandboxApp.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Loner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\Loner.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\PawnMovementComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Components\\PawnMovementComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\PawnMovementComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Components\\PawnMovementComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Renderer\\Renderer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\UI\\UIText.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Objects\\Object.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Companion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\Companion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Explosion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\Explosion.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Objects\\Object.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\RigidbodyComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Components\\RigidbodyComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\PlayerUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\PlayerUI.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Missile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\Missile.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\MediumWallLeft.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\MediumWallLeft.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\PowerUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\PowerUp.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\Tilemap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Renderer\\Tilemap.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\RenderComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Components\\RenderComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\RenderComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Components\\RenderComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIImage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\UI\\UIImage.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIImage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\UI\\UIImage.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\UI\\UIObject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\UI\\UIObject.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Renderer\\Renderer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\ObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Objects\\ObjectManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\ObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Objects\\ObjectManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Application.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\UI\\UIManager.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Sandbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D44D8605-3BF9-49A8-BA41-2CDF67931DC3}|Sandbox\\Sandbox.vcxproj|solutionrelative:Sandbox\\src\\Sandbox.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Application.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\UI\\UIManager.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\EntryPoint.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Objects\\Pawn.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Objects\\Pawn.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\BEGINNING\\SRC\\BEGINNING\\OBJECTS\\CHARACTER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:BEGINNING\\SRC\\BEGINNING\\OBJECTS\\CHARACTER.H||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Physics\\Physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Physics\\Physics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Physics\\Physics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Physics\\Physics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\Collider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Components\\Collider.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\RigidbodyComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Components\\RigidbodyComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Pedro\\Documents\\gameengine_beginning_start - Copy\\gameengine_beginning_start\\Beginning\\Beginning\\src\\Beginning\\Components\\PawnMovementComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\Collider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Components\\Collider.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\UI\\UIWidget.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIText.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\UI\\UIText.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\SDL2_ttf-2.22.0\\i686-w64-mingw32\\lib\\libSDL2_ttf.la||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dependencies\\SDL2_ttf-2.22.0\\i686-w64-mingw32\\lib\\libSDL2_ttf.la||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\UI\\UIWidget.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\Sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Renderer\\Sprite.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Components\\Component.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Objects\\Character.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Input\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Input\\Input.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Input\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Input\\Input.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\AnimatorComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Components\\AnimatorComponent.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\AnimatorComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Components\\AnimatorComponent.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Components\\Animation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xmemory||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Events\\EventHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Events\\EventHandler.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Events\\EventHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Events\\EventHandler.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Events\\ContactListener.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Events\\ContactListener.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\bgpch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\bgpch.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Events\\EventType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\Beginning\\Events\\EventType.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\ostream||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\bgpch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{E1473B8F-A02B-4D19-A6BD-4FA2FB32C33A}|Beginning\\Beginning.vcxproj|solutionrelative:Beginning\\src\\bgpch.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\memory||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Beginning\\src\\Beginning\\Renderer\\stb_image.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\vendor\\spdlog\\include\\spdlog\\fmt\\bundled\\core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\spdlog\\include\\spdlog\\fmt\\bundled\\core.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\glm\\detail\\type_vec2.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dependencies\\glm\\detail\\type_vec2.inl||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\vendor\\spdlog\\include\\spdlog\\pattern_formatter-inl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\spdlog\\include\\spdlog\\pattern_formatter-inl.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\time.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xutility||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\vendor\\spdlog\\include\\spdlog\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:vendor\\spdlog\\include\\spdlog\\common.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\box2d\\include\\box2d\\b2_fixture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dependencies\\box2d\\include\\box2d\\b2_fixture.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xtree||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\map||{3B902123-F8A7-4915-9F01-361F908088D0}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdlib.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\crtdbg.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\any||{3B902123-F8A7-4915-9F01-361F908088D0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\box2d\\include\\box2d\\b2_shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dependencies\\box2d\\include\\box2d\\b2_shape.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\sdl2\\include\\SDL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dependencies\\sdl2\\include\\SDL.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\SDL2_ttf-2.22.0\\i686-w64-mingw32\\include\\SDL2\\SDL_ttf.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Dependencies\\SDL2_ttf-2.22.0\\i686-w64-mingw32\\include\\SDL2\\SDL_ttf.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 182,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Rock.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Rock.h",
+              "RelativeDocumentMoniker": "Sandbox\\src\\Rock.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Rock.h",
+              "RelativeToolTip": "Sandbox\\src\\Rock.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACYAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T08:50:32.615Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SandboxApp.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\SandboxApp.cpp",
+              "RelativeDocumentMoniker": "Sandbox\\src\\SandboxApp.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\SandboxApp.cpp",
+              "RelativeToolTip": "Sandbox\\src\\SandboxApp.cpp",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAswC0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T18:13:53.144Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PawnMovementComponent.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\PawnMovementComponent.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Components\\PawnMovementComponent.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\PawnMovementComponent.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Components\\PawnMovementComponent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T17:46:15.487Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Player.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Player.h",
+              "RelativeDocumentMoniker": "Sandbox\\src\\Player.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Player.h",
+              "RelativeToolTip": "Sandbox\\src\\Player.h",
+              "ViewState": "AQIAAIsAAAAAAAAAAAAwwMMAAABIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T20:58:20.899Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MediumWallLeft.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\MediumWallLeft.h",
+              "RelativeDocumentMoniker": "Sandbox\\src\\MediumWallLeft.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\MediumWallLeft.h",
+              "RelativeToolTip": "Sandbox\\src\\MediumWallLeft.h",
+              "ViewState": "AQIAAFwAAAAAAAAAAAAswBUAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T14:00:36.889Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PawnMovementComponent.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\PawnMovementComponent.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Components\\PawnMovementComponent.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\PawnMovementComponent.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Components\\PawnMovementComponent.cpp",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAADMAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T17:46:22.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Missile.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Missile.h",
+              "RelativeDocumentMoniker": "Sandbox\\src\\Missile.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Missile.h",
+              "RelativeToolTip": "Sandbox\\src\\Missile.h",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAAEUAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T22:12:25.94Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "ObjectManager.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\ObjectManager.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Objects\\ObjectManager.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\ObjectManager.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Objects\\ObjectManager.h",
+              "ViewState": "AQIAABsAAADAZmZmZmYkwDAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-06T20:55:47.61Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Explosion.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Explosion.h",
+              "RelativeDocumentMoniker": "Sandbox\\src\\Explosion.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Explosion.h",
+              "RelativeToolTip": "Sandbox\\src\\Explosion.h",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAACMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T21:02:28.406Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UIText.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIText.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\UI\\UIText.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIText.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\UI\\UIText.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T10:38:05.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Loner.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Loner.h",
+              "RelativeDocumentMoniker": "Sandbox\\src\\Loner.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Loner.h",
+              "RelativeToolTip": "Sandbox\\src\\Loner.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAADMAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T17:50:42.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "RigidbodyComponent.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\RigidbodyComponent.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Components\\RigidbodyComponent.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\RigidbodyComponent.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Components\\RigidbodyComponent.cpp",
+              "ViewState": "AQIAADIAAAAAAAAAAAAvwIAAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T20:47:12.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Object.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Object.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Objects\\Object.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Object.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Objects\\Object.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAvwBsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T20:53:13.892Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Companion.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Companion.h",
+              "RelativeDocumentMoniker": "Sandbox\\src\\Companion.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Companion.h",
+              "RelativeToolTip": "Sandbox\\src\\Companion.h",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAAEAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T22:05:33.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Object.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Object.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Objects\\Object.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Object.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Objects\\Object.h",
+              "ViewState": "AQIAACEAAADAZmZmZmYkwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-06T20:53:52.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Renderer.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\Renderer.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Renderer\\Renderer.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\Renderer.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Renderer\\Renderer.cpp",
+              "ViewState": "AQIAADMDAAAAAAAAAAAswBoDAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-29T18:30:18.348Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "PowerUp.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\PowerUp.h",
+              "RelativeDocumentMoniker": "Sandbox\\src\\PowerUp.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\PowerUp.h",
+              "RelativeToolTip": "Sandbox\\src\\PowerUp.h",
+              "ViewState": "AQIAADYAAAAAAAAAAAAAAE0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-11T05:02:29.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "RenderComponent.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\RenderComponent.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Components\\RenderComponent.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\RenderComponent.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Components\\RenderComponent.cpp",
+              "ViewState": "AQIAACgAAAAAAAAAAAAkwDYAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T21:06:56.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Tilemap.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\Tilemap.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Renderer\\Tilemap.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\Tilemap.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Renderer\\Tilemap.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T20:10:49.944Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "PlayerUI.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\PlayerUI.h",
+              "RelativeDocumentMoniker": "Sandbox\\src\\PlayerUI.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\PlayerUI.h",
+              "RelativeToolTip": "Sandbox\\src\\PlayerUI.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAEAAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T20:46:36.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "RenderComponent.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\RenderComponent.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Components\\RenderComponent.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\RenderComponent.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Components\\RenderComponent.h",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAkwCYAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-06T21:06:57.898Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "UIObject.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIObject.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\UI\\UIObject.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIObject.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\UI\\UIObject.h",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAYwBgAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T22:28:51.484Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "UIImage.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIImage.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\UI\\UIImage.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIImage.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\UI\\UIImage.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAVAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T11:23:15.343Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "UIManager.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIManager.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\UI\\UIManager.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIManager.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\UI\\UIManager.h",
+              "ViewState": "AQIAABQAAAAAAAAAAAAQwCkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T22:29:45.96Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "UIImage.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIImage.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\UI\\UIImage.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIImage.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\UI\\UIImage.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T11:23:05.814Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "Renderer.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\Renderer.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Renderer\\Renderer.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\Renderer.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Renderer\\Renderer.h",
+              "ViewState": "AQIAAG8AAAAAAAAAAAAAAH4AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-29T18:30:36.175Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Beginning.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T18:34:42.156Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UIObject.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIObject.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\UI\\UIObject.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIObject.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\UI\\UIObject.cpp",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T22:29:01.813Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "ObjectManager.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\ObjectManager.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Objects\\ObjectManager.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\ObjectManager.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Objects\\ObjectManager.cpp",
+              "ViewState": "AQIAABUAAAAAoJmZmZnJvyUAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T20:55:48.536Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Sandbox.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Sandbox.h",
+              "RelativeDocumentMoniker": "Sandbox\\src\\Sandbox.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Sandbox\\src\\Sandbox.h",
+              "RelativeToolTip": "Sandbox\\src\\Sandbox.h",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAACgAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T22:44:26.763Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Application.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Application.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Application.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Application.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Application.h",
+              "ViewState": "AQIAABgAAACQZmZmZmYkwDEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T18:00:14.47Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Application.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Application.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Application.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Application.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Application.cpp",
+              "ViewState": "AQIAADgAAAAAAAAAAAAqwFcAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T18:18:27.891Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "UIManager.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIManager.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\UI\\UIManager.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIManager.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\UI\\UIManager.cpp",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAABAAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T22:29:17.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "EntryPoint.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\EntryPoint.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\EntryPoint.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\EntryPoint.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\EntryPoint.h",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAqwBgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T20:35:02.748Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "Pawn.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Pawn.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Objects\\Pawn.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Pawn.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Objects\\Pawn.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T17:45:35.248Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "Pawn.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Pawn.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Objects\\Pawn.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Pawn.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Objects\\Pawn.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T17:45:49.039Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "Character.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Character.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Objects\\Character.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Character.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Objects\\Character.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T17:47:55.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "Physics.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Physics\\Physics.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Physics\\Physics.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Physics\\Physics.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Physics\\Physics.cpp",
+              "ViewState": "AQIAAAEAAABAMzMzMzMrwB8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T21:20:58.688Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "Collider.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\Collider.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Components\\Collider.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\Collider.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Components\\Collider.h",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAF0AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T20:38:31.767Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "Physics.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Physics\\Physics.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Physics\\Physics.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Physics\\Physics.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Physics\\Physics.h",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-06T21:22:32.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "RigidbodyComponent.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\RigidbodyComponent.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Components\\RigidbodyComponent.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\RigidbodyComponent.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Components\\RigidbodyComponent.h",
+              "ViewState": "AQIAAA8AAAAAAAAAAAApwBsAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-06T20:47:10.839Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "Collider.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\Collider.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Components\\Collider.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\Collider.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Components\\Collider.cpp",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACAAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T20:39:30.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "PawnMovementComponent.cpp",
+              "DocumentMoniker": "C:\\Users\\Pedro\\Documents\\gameengine_beginning_start - Copy\\gameengine_beginning_start\\Beginning\\Beginning\\src\\Beginning\\Components\\PawnMovementComponent.cpp",
+              "ToolTip": "C:\\Users\\Pedro\\Documents\\gameengine_beginning_start - Copy\\gameengine_beginning_start\\Beginning\\Beginning\\src\\Beginning\\Components\\PawnMovementComponent.cpp",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABIAAAAUAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-10T23:13:31.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "UIWidget.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIWidget.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\UI\\UIWidget.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIWidget.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\UI\\UIWidget.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-09T22:30:19.56Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "libSDL2_ttf.la",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\SDL2_ttf-2.22.0\\i686-w64-mingw32\\lib\\libSDL2_ttf.la",
+              "RelativeDocumentMoniker": "Dependencies\\SDL2_ttf-2.22.0\\i686-w64-mingw32\\lib\\libSDL2_ttf.la",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\SDL2_ttf-2.22.0\\i686-w64-mingw32\\lib\\libSDL2_ttf.la",
+              "RelativeToolTip": "Dependencies\\SDL2_ttf-2.22.0\\i686-w64-mingw32\\lib\\libSDL2_ttf.la",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-10T17:40:29.795Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 81,
+              "Title": "SDL_ttf.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\SDL2_ttf-2.22.0\\i686-w64-mingw32\\include\\SDL2\\SDL_ttf.h",
+              "RelativeDocumentMoniker": "Dependencies\\SDL2_ttf-2.22.0\\i686-w64-mingw32\\include\\SDL2\\SDL_ttf.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\SDL2_ttf-2.22.0\\i686-w64-mingw32\\include\\SDL2\\SDL_ttf.h",
+              "RelativeToolTip": "Dependencies\\SDL2_ttf-2.22.0\\i686-w64-mingw32\\include\\SDL2\\SDL_ttf.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T15:25:42.652Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "UIText.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIText.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\UI\\UIText.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIText.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\UI\\UIText.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T10:38:19.171Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "UIWidget.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIWidget.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\UI\\UIWidget.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\UI\\UIWidget.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\UI\\UIWidget.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-09T22:30:10.063Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Sprite.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\Sprite.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Renderer\\Sprite.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\Sprite.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Renderer\\Sprite.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAADEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-29T20:53:31.433Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "Component.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\Component.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Components\\Component.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\Component.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Components\\Component.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-06T21:06:55.014Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "Character.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Character.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Objects\\Character.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Objects\\Character.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Objects\\Character.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T17:48:23.39Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 80,
+              "Title": "SDL.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\sdl2\\include\\SDL.h",
+              "RelativeDocumentMoniker": "Dependencies\\sdl2\\include\\SDL.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\sdl2\\include\\SDL.h",
+              "RelativeToolTip": "Dependencies\\sdl2\\include\\SDL.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-10T11:44:20.902Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Input.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Input\\Input.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Input\\Input.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Input\\Input.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Input\\Input.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T15:17:25.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Input.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Input\\Input.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Input\\Input.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Input\\Input.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Input\\Input.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAIBJwBkAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T18:03:50.105Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "AnimatorComponent.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\AnimatorComponent.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Components\\AnimatorComponent.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\AnimatorComponent.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Components\\AnimatorComponent.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T20:55:51.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AnimatorComponent.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\AnimatorComponent.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Components\\AnimatorComponent.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\AnimatorComponent.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Components\\AnimatorComponent.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-07T21:45:26.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "Animation.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\Animation.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Components\\Animation.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Components\\Animation.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Components\\Animation.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T22:22:29.973Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "vector",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\vector",
+              "ViewState": "AQIAAK4GAAAAAAAAAAAewMIGAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-04T16:46:25.216Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "xmemory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xmemory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xmemory",
+              "ViewState": "AQIAAPAEAAAAAAAAAAAewAQFAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-05T13:02:55.246Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "EventHandler.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Events\\EventHandler.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Events\\EventHandler.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Events\\EventHandler.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Events\\EventHandler.h",
+              "ViewState": "AQIAABYAAACgMzMzMzMrwBcAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T18:04:37.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "bgpch.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\bgpch.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\bgpch.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\bgpch.cpp",
+              "RelativeToolTip": "Beginning\\src\\bgpch.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-06T21:25:56.597Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ContactListener.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Events\\ContactListener.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Events\\ContactListener.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Events\\ContactListener.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Events\\ContactListener.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-09-08T10:35:34.699Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "EventHandler.cpp",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Events\\EventHandler.cpp",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Events\\EventHandler.cpp",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Events\\EventHandler.cpp",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Events\\EventHandler.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACkAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-08-28T18:05:15.819Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "EventType.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Events\\EventType.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Events\\EventType.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Events\\EventType.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Events\\EventType.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-08T10:57:05.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ostream",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\ostream",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\ostream",
+              "ViewState": "AQIAAP0CAAAAAAAAAAAQwBQDAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-07T20:53:30.672Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "bgpch.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\bgpch.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\bgpch.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\bgpch.h",
+              "RelativeToolTip": "Beginning\\src\\bgpch.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T21:56:35.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "any",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\any",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\any",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-07T09:43:10.24Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 79,
+              "Title": "b2_shape.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\box2d\\include\\box2d\\b2_shape.h",
+              "RelativeDocumentMoniker": "Dependencies\\box2d\\include\\box2d\\b2_shape.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\box2d\\include\\box2d\\b2_shape.h",
+              "RelativeToolTip": "Dependencies\\box2d\\include\\box2d\\b2_shape.h",
+              "ViewState": "AQIAAE4AAAAAAAAAAAApwGYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-07T09:42:58.313Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "memory",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\memory",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\memory",
+              "ViewState": "AQIAABUGAAAAAAAAAAAQwCwGAABaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-05T18:53:46.664Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "xstring",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xstring",
+              "ViewState": "AQIAAKoJAAAAAAAAAAAuwMEJAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-02T21:51:30.582Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "stb_image.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\stb_image.h",
+              "RelativeDocumentMoniker": "Beginning\\src\\Beginning\\Renderer\\stb_image.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Beginning\\src\\Beginning\\Renderer\\stb_image.h",
+              "RelativeToolTip": "Beginning\\src\\Beginning\\Renderer\\stb_image.h",
+              "ViewState": "AQIAAMsDAAAAAAAAAAAuwNkDAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-03T13:21:14.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "xtree",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xtree",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xtree",
+              "ViewState": "AQIAAHsHAAAAAAAAAAAEwJEHAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-05T19:20:04.087Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "map",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\map",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\map",
+              "ViewState": "AQIAAFMAAAAAAAAAAAAEwGkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-05T19:21:54.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "type_vec2.inl",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\glm\\detail\\type_vec2.inl",
+              "RelativeDocumentMoniker": "Dependencies\\glm\\detail\\type_vec2.inl",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\glm\\detail\\type_vec2.inl",
+              "RelativeToolTip": "Dependencies\\glm\\detail\\type_vec2.inl",
+              "ViewState": "AQIAAH0AAAAAAAAAAAAEwJMAAAACAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-09-04T22:00:09.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "core.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\vendor\\spdlog\\include\\spdlog\\fmt\\bundled\\core.h",
+              "RelativeDocumentMoniker": "vendor\\spdlog\\include\\spdlog\\fmt\\bundled\\core.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\vendor\\spdlog\\include\\spdlog\\fmt\\bundled\\core.h",
+              "RelativeToolTip": "vendor\\spdlog\\include\\spdlog\\fmt\\bundled\\core.h",
+              "ViewState": "AQIAAMQBAAAAAAAAAAAEwNoBAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T16:04:32.525Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "stdlib.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdlib.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\stdlib.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T18:38:56.625Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "crtdbg.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\crtdbg.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\crtdbg.h",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T18:39:02.023Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "pattern_formatter-inl.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\vendor\\spdlog\\include\\spdlog\\pattern_formatter-inl.h",
+              "RelativeDocumentMoniker": "vendor\\spdlog\\include\\spdlog\\pattern_formatter-inl.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\vendor\\spdlog\\include\\spdlog\\pattern_formatter-inl.h",
+              "RelativeToolTip": "vendor\\spdlog\\include\\spdlog\\pattern_formatter-inl.h",
+              "ViewState": "AQIAAOkCAAAAAAAAAAAhwAADAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T15:54:44.564Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "time.h",
+              "DocumentMoniker": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\time.h",
+              "ToolTip": "C:\\Program Files (x86)\\Windows Kits\\10\\Include\\10.0.22621.0\\ucrt\\time.h",
+              "ViewState": "AQIAAFECAAAAAAAAAAAhwGgCAAAyAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T13:04:49.554Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "xutility",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xutility",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.38.33130\\include\\xutility",
+              "ViewState": "AQIAAOcAAAAAAAAAAAAAAP4AAAA8AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-03T11:22:40.17Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "common.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\vendor\\spdlog\\include\\spdlog\\common.h",
+              "RelativeDocumentMoniker": "vendor\\spdlog\\include\\spdlog\\common.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\vendor\\spdlog\\include\\spdlog\\common.h",
+              "RelativeToolTip": "vendor\\spdlog\\include\\spdlog\\common.h",
+              "ViewState": "AQIAAG8BAAAAAAAAAAAhwIYBAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-09-05T13:05:06.297Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "b2_fixture.h",
+              "DocumentMoniker": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\box2d\\include\\box2d\\b2_fixture.h",
+              "RelativeDocumentMoniker": "Dependencies\\box2d\\include\\box2d\\b2_fixture.h",
+              "ToolTip": "D:\\IPL\\3ano\\GameEngine\\Projeto2\\Beginning\\Dependencies\\box2d\\include\\box2d\\b2_fixture.h",
+              "RelativeToolTip": "Dependencies\\box2d\\include\\box2d\\b2_fixture.h",
+              "ViewState": "AQIAAPIAAAAAAAAAAAAvwAQBAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2024-08-28T20:36:30.265Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

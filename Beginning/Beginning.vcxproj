@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="src\Beginning\Application.h" />
+    <ClInclude Include="src\Beginning.h" />
+    <ClInclude Include="src\Beginning\Components\Animation.h" />
+    <ClInclude Include="src\Beginning\Components\AnimatorComponent.h" />
+    <ClInclude Include="src\Beginning\Components\Collider.h" />
+    <ClInclude Include="src\Beginning\Components\Component.h" />
+    <ClInclude Include="src\Beginning\Components\PawnMovementComponent.h" />
+    <ClInclude Include="src\Beginning\Components\RenderComponent.h" />
+    <ClInclude Include="src\Beginning\Components\RigidbodyComponent.h" />
+    <ClInclude Include="src\Beginning\EntryPoint.h" />
+    <ClInclude Include="src\Beginning\Events\CollisionEvent.h" />
+    <ClInclude Include="src\Beginning\Events\ContactListener.h" />
+    <ClInclude Include="src\Beginning\Events\EventHandler.h" />
+    <ClInclude Include="src\Beginning\Events\EventType.h" />
+    <ClInclude Include="src\Beginning\Events\InputEvent.h" />
+    <ClInclude Include="src\Beginning\Input\Input.h" />
+    <ClInclude Include="src\Beginning\Input\KeyCodes.h" />
+    <ClInclude Include="src\Beginning\Objects\Character.h" />
+    <ClInclude Include="src\Beginning\Objects\Object.h" />
+    <ClInclude Include="src\Beginning\Objects\ObjectManager.h" />
+    <ClInclude Include="src\Beginning\Objects\Pawn.h" />
+    <ClInclude Include="src\Beginning\Physics\Physics.h" />
+    <ClInclude Include="src\Beginning\Renderer\Renderer.h" />
+    <ClInclude Include="src\Beginning\Renderer\Sprite.h" />
+    <ClInclude Include="src\Beginning\Renderer\Tilemap.h" />
+    <ClInclude Include="src\Beginning\UI\UIImage.h" />
+    <ClInclude Include="src\Beginning\UI\UIManager.h" />
+    <ClInclude Include="src\Beginning\UI\UIObject.h" />
+    <ClInclude Include="src\Beginning\UI\UIText.h" />
+    <ClInclude Include="src\Beginning\UI\UIWidget.h" />
+    <ClInclude Include="src\bgpch.h">
+      <ExcludedFromBuild Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">false</ExcludedFromBuild>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="..\Dependencies\glad\src\glad.c">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">NotUsing</PrecompiledHeader>
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Release|x64'">NotUsing</PrecompiledHeader>
+      <ForcedIncludeFiles Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+      </ForcedIncludeFiles>
+      <ForcedIncludeFiles Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+      </ForcedIncludeFiles>
+    </ClCompile>
+    <ClCompile Include="src\Beginning\Application.cpp" />
+    <ClCompile Include="src\Beginning\Components\AnimatorComponent.cpp" />
+    <ClCompile Include="src\Beginning\Components\Collider.cpp" />
+    <ClCompile Include="src\Beginning\Components\PawnMovementComponent.cpp" />
+    <ClCompile Include="src\Beginning\Components\RenderComponent.cpp" />
+    <ClCompile Include="src\Beginning\Components\RigidbodyComponent.cpp" />
+    <ClCompile Include="src\Beginning\Events\ContactListener.cpp" />
+    <ClCompile Include="src\Beginning\Events\EventHandler.cpp" />
+    <ClCompile Include="src\Beginning\Input\Input.cpp" />
+    <ClCompile Include="src\Beginning\Objects\Character.cpp" />
+    <ClCompile Include="src\Beginning\Objects\Object.cpp" />
+    <ClCompile Include="src\Beginning\Objects\ObjectManager.cpp" />
+    <ClCompile Include="src\Beginning\Objects\Pawn.cpp" />
+    <ClCompile Include="src\Beginning\Physics\Physics.cpp" />
+    <ClCompile Include="src\Beginning\Renderer\Renderer.cpp" />
+    <ClCompile Include="src\Beginning\UI\UIImage.cpp" />
+    <ClCompile Include="src\Beginning\UI\UIManager.cpp" />
+    <ClCompile Include="src\Beginning\UI\UIObject.cpp" />
+    <ClCompile Include="src\Beginning\UI\UIText.cpp" />
+    <ClCompile Include="src\Beginning\UI\UIWidget.cpp" />
+    <ClCompile Include="src\bgpch.cpp">
+      <PrecompiledHeader Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">Create</PrecompiledHeader>
+    </ClCompile>
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>17.0</VCProjectVersion>
+    <Keyword>Win32Proj</Keyword>
+    <ProjectGuid>{e1473b8f-a02b-4d19-a6bd-4fa2fb32c33a}</ProjectGuid>
+    <RootNamespace>Beginning</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>StaticLibrary</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v143</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <OutDir>..\bin\Debug-x64\Sandbox</OutDir>
+    <IntDir>$(SolutionDir)bin-int\$(Configuration)-$(Platform)\$(ProjectName)\</IntDir>
+    <LibraryPath>$(SolutionDir)Dependencies\sdl2\lib\x64;$(SolutionDir)Dependencies\SDL2_ttf-2.22.0\lib\x64;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <OutDir>..\bin\Debug-x64\Sandbox</OutDir>
+    <IntDir>$(SolutionDir)bin-int\$(Configuration)-$(Platform)\$(ProjectName)\</IntDir>
+    <LibraryPath>$(SolutionDir)Dependencies\sdl2\lib\x64;$(LibraryPath)</LibraryPath>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>BG_PLATFORM_WINDOWS;BG_BUILD_DLL;_WINDLL;</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>$(SolutionDir)vendor\spdlog\include;$(SolutionDir)Dependencies\sdl2\include;$(SolutionDir)Dependencies\glad\include;$(SolutionDir)Dependencies\glm;$(SolutionDir)Dependencies\box2d\include;$(SolutionDir)Dependencies\box2d-main\box2d-main\include;$(SolutionDir)Dependencies\SDL2_ttf-2.22.0\include</AdditionalIncludeDirectories>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>bgpch.h</PrecompiledHeaderFile>
+      <ForcedIncludeFiles>bgpch.h</ForcedIncludeFiles>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SolutionDir)Dependencies\sdl\lib\x64</AdditionalLibraryDirectories>
+      <AdditionalDependencies>SDL2main.lib;SDL2.lib</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <WarningLevel>Level3</WarningLevel>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>BG_PLATFORM_WINDOWS;BG_BUILD_DLL;_WINDLL;</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>$(SolutionDir)vendor\spdlog\include;$(SolutionDir)Dependencies\sdl2\include;$(SolutionDir)Dependencies\glad\include;$(SolutionDir)Dependencies\glm;$(SolutionDir)Dependencies\box2d\include;$(SolutionDir)Dependencies\box2d-main\box2d-main\include</AdditionalIncludeDirectories>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <PrecompiledHeaderFile>bgpch.h</PrecompiledHeaderFile>
+      <ForcedIncludeFiles>bgpch.h</ForcedIncludeFiles>
+      <RuntimeLibrary>MultiThreadedDebugDLL</RuntimeLibrary>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+      <AdditionalLibraryDirectories>$(SolutionDir)Dependencies\sdl\lib\x64</AdditionalLibraryDirectories>
+      <AdditionalDependencies>SDL2main.lib;SDL2.lib</AdditionalDependencies>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>
